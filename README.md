@@ -14,7 +14,7 @@
 
 -Creates the local data directories
 
-Creates the config file for the replica set member
+-Creates the config file for the replica set member
  
 -Starts the mongod service that's prepared to join a replica set
 
